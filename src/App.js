@@ -171,6 +171,12 @@ const Table=()=>{
         <Table/>
         </div>
         </div>
+    <footer style={{backgroundColor:'whitesmoke',padding:"10px 10px 40px 10px",textAlign:"center"}}>
+      <p style={{margin:"0 auto 0 auto"}}>Created by: Soham Chhapre $ <a href="mailto:1899sohamchhapre@gmail.com">
+      <i class="fa fa-envelope-square" style={{fontSize:'26px'}}></i></a>
+      <a href="https://www.github.com/SohamChhapre" target="_blank">
+      <i class="fa fa-github" style={{fontSize:'26px',marginLeft:"10px"}}></i></a> $</p>
+    </footer> 
     </div>
   );
 }
